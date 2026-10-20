@@ -1,71 +1,135 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Rockstreamer
+
+### Video Discovery Web Application
+
+Rockstreamer is a responsive video discovery application built with React and JavaScript.
+
+Inspired by modern video streaming platforms, the project focuses on creating an intuitive browsing experience through dynamic content, REST API integration, and reusable frontend components.
+
+The application demonstrates practical frontend development skills, including component-based architecture, API integration, responsive design, and client-side navigation.
+
+## Live Demo
+
+[Launch Rockstreamer](https://youtube-clone-mmn7.vercel.app/)
+
+## Technologies Used
+
+- React
+- JavaScript
+- HTML5
+- CSS3
+- REST APIs
+- Git and GitHub
+- Vercel
+
+## Key Features
+
+### Video Discovery
+
+Provides an interface for exploring video content through a familiar, streaming-inspired layout.
+
+### REST API Integration
+
+Integrates external video data to dynamically populate the application with content.
+
+### Responsive Design
+
+Uses responsive layouts to support viewing across desktop and mobile screen sizes.
+
+### Component-Based Architecture
+
+Organizes the interface into reusable React components for improved consistency and maintainability.
+
+### Interactive User Interface
+
+Provides an engaging browsing experience with interactive elements and content displays.
+
+## Screenshots
+
+Application screenshots will be added here to showcase the video browsing interface and responsive layouts.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm
+- Git
+
+### 1. Clone the Repository
+
+Use the current GitHub repository URL:
+
+```bash
+git clone <YOUR-ROCKSTREAMER-REPOSITORY-URL>
+```
+
+### 2. Navigate to the Project
+
+```bash
+cd <YOUR-REPOSITORY-FOLDER>
+```
+
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the Development Server
+
+```bash
+npm start
+```
+
+### 5. Open the Application
+
+Visit http://localhost:3000
+
+Note: Features that retrieve external video data may require valid API configuration.
 
 ## Available Scripts
 
-In the project directory, you can run:
+| Command | Description |
+| --- | --- |
+| `npm start` | Starts the development server |
+| `npm test` | Runs the React test runner |
+| `npm run build` | Creates a production build |
 
-### `npm start`
+## Development Experience
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Rockstreamer provided practical experience developing a React application centered around dynamic content and frontend usability.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Key development areas included:
 
-### `npm test`
+- Building reusable React components
+- Integrating external data through REST APIs
+- Developing responsive layouts
+- Organizing application interfaces
+- Rendering dynamic content
+- Debugging frontend functionality
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Lessons Learned
 
-### `npm run build`
+This project strengthened my understanding of React component architecture, asynchronous data handling, and responsive interface development.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+It also reinforced the importance of organizing frontend code, managing API-driven content, and creating intuitive navigation experiences.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Future Improvements
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Potential enhancements include:
 
-### `npm run eject`
+- Expanded automated testing
+- Additional accessibility improvements
+- Enhanced video discovery features
+- Improved loading and error states
+- Performance optimization
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+These are potential future enhancements rather than currently implemented features.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Developer
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Thomas Babb** — Frontend Developer
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# youtube-clone
+[Portfolio](https://thomas-babb-portfolio-z91p-sigma.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/thomasbabbpm/) | [GitHub](https://github.com/Hotrodtymn)
